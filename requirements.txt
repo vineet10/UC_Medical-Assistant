@@ -1,0 +1,6 @@
+torch
+torchvision
+torchaudio
+git+https://github.com/openai/whisper.git
+streamlit
+groq
